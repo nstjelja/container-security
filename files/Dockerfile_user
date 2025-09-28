@@ -1,4 +1,4 @@
-from ubuntu
+from ubuntu:24.10
 run useradd -ms /bin/bash sebastian
 user sebastian
 cmd /bin/bash
